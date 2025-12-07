@@ -1,7 +1,7 @@
 # Dasher Profit Analytics: Excel Data Modeling & Cost Allocation Engine
 A complex relational data model and dashboard designed to uncover the true net profit of gig-economy work by automating tax deduction tracking and allocating variable costs.
 
-![The Excel Interactive Dashboard](~/src/dashboard.png)
+![The Excel Interactive Dashboard](src/dashboard.png)
 
 
 ## Executive Summary
