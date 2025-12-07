@@ -16,15 +16,15 @@ Advanced Data Modeling: Designed a multi-table relational schema (Star Schema ap
 
 Cost Accounting Logic: Implemented complex cost allocation methods:
 
-Variable Costs (Fuel/Maintenance): Allocated based on odometer readings and calculated Cost_Per_KM.
+- Variable Costs (Fuel/Maintenance): Allocated based on odometer readings and calculated Cost_Per_KM.
 
-Fixed Costs (Insurance/Rego): Amortized over shifts using time-weighted averages (Cost_Per_Hour).
+- Fixed Costs (Insurance/Rego): Amortized over shifts using time-weighted averages (Cost_Per_Hour).
 
-DAX & Power Pivot: utilized Data Analysis Expressions (DAX) to create 12+ dynamic measures for financial performance.
+- DAX & Power Pivot: utilized Data Analysis Expressions (DAX) to create 12+ dynamic measures for financial performance.
 
-Formulas: Nested XLOOKUP, SUMIFS, and array formulas to automate data retrieval across 250+ transactions.
+- Formulas: Nested XLOOKUP, SUMIFS, and array formulas to automate data retrieval across 250+ transactions.
 
-Visual Analytics: Interactive Dashboard allowing for temporal analysis (Profit by Day/Time) and efficiency metrics.
+- Visual Analytics: Interactive Dashboard allowing for temporal analysis (Profit by Day/Time) and efficiency metrics.
 
 ## The Data Architecture
 The project moves away from a "flat file" approach and uses a relational structure to ensure data integrity.
