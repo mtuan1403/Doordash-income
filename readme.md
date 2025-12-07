@@ -45,8 +45,6 @@ Fixed_Expenses (Fixed Cost): Tracks Insurance, Registration, and Maintenance. Th
 
 Time_Intelligence: Helper columns breakdown shifts by Day_of_Week and Time_Period (Lunch/Dinner/Late Night) for optimization analysis.
 
-(Replace this line with a screenshot of your Power Pivot relationship diagram or table structure)
-
 ## Key Insights & Analysis
 The dashboard answers critical business questions that the standard DoorDash app cannot:
 
@@ -60,9 +58,9 @@ Example Insight: A shift with high gross earnings might have a lower net profit 
 
 Analysis of historical data to determine the highest yield windows.
 
-Best Day: Identifies which days of the week generate the highest Profit_Per_Hour.
+- Best Day: Identifies which days of the week generate the highest Profit_Per_Hour.
 
-Best Time: Compares Lunch vs. Dinner vs. Late Night profitability to maximize return on time invested.
+- Best Time: Compares Lunch vs. Dinner vs. Late Night profitability to maximize return on time invested.
 
 ### 3. Tax Readiness & Financial Compliance
 
